@@ -10,7 +10,13 @@
     <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/citation.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
@@ -25,10 +31,22 @@
     <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/citation.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/midlunch.html</loc>
@@ -44,6 +62,12 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-md/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-md/midlunch.html</loc>
